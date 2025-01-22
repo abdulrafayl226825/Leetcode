@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/abdulrafayl226825/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2300-construct-string-with-repeat-limit](https://github.com/abdulrafayl226825/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2685-first-completely-painted-row-or-column](https://github.com/abdulrafayl226825/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abdulrafayl226825/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Breadth-First Search
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/abdulrafayl226825/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2300-construct-string-with-repeat-limit](https://github.com/abdulrafayl226825/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 ## Shortest Path
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/abdulrafayl226825/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2300-construct-string-with-repeat-limit](https://github.com/abdulrafayl226825/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 ## Linked List
 |  |
 | ------- |
@@ -95,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/abdulrafayl226825/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [2300-construct-string-with-repeat-limit](https://github.com/abdulrafayl226825/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+## Counting
+|  |
+| ------- |
+| [2300-construct-string-with-repeat-limit](https://github.com/abdulrafayl226825/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 <!---LeetCode Topics End-->
