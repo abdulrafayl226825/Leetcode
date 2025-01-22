@@ -33,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abdulrafayl226825/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0871-keys-and-rooms](https://github.com/abdulrafayl226825/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/abdulrafayl226825/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/abdulrafayl226825/Leetcode/tree/master/1876-map-of-highest-peak) |
 ## Graph
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/abdulrafayl226825/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/abdulrafayl226825/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abdulrafayl226825/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0871-keys-and-rooms](https://github.com/abdulrafayl226825/Leetcode/tree/master/0871-keys-and-rooms) |
 ## Binary Tree
 |  |
 | ------- |
