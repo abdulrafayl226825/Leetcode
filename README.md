@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abdulrafayl226825/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0820-find-eventual-safe-states](https://github.com/abdulrafayl226825/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/abdulrafayl226825/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1396-count-servers-that-communicate](https://github.com/abdulrafayl226825/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/abdulrafayl226825/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/abdulrafayl226825/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/abdulrafayl226825/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/abdulrafayl226825/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Heap (Priority Queue)
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abdulrafayl226825/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0820-find-eventual-safe-states](https://github.com/abdulrafayl226825/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/abdulrafayl226825/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1396-count-servers-that-communicate](https://github.com/abdulrafayl226825/Leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Binary Tree
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/abdulrafayl226825/Leetcode/tree/master/1396-count-servers-that-communicate) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/abdulrafayl226825/Leetcode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
