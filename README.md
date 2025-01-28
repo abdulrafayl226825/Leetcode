@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abdulrafayl226825/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0207-course-schedule](https://github.com/abdulrafayl226825/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abdulrafayl226825/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/abdulrafayl226825/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/abdulrafayl226825/Leetcode/tree/master/0871-keys-and-rooms) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/abdulrafayl226825/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abdulrafayl226825/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/abdulrafayl226825/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/abdulrafayl226825/Leetcode/tree/master/0871-keys-and-rooms) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abdulrafayl226825/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0207-course-schedule](https://github.com/abdulrafayl226825/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abdulrafayl226825/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/abdulrafayl226825/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/abdulrafayl226825/Leetcode/tree/master/0871-keys-and-rooms) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/abdulrafayl226825/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abdulrafayl226825/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/abdulrafayl226825/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/abdulrafayl226825/Leetcode/tree/master/1558-course-schedule-iv) |
