@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/abdulrafayl226825/Leetcode/tree/master/0198-house-robber) |
 | [0630-course-schedule-iii](https://github.com/abdulrafayl226825/Leetcode/tree/master/0630-course-schedule-iii) |
+| [1364-tuple-with-same-product](https://github.com/abdulrafayl226825/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/abdulrafayl226825/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/abdulrafayl226825/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/abdulrafayl226825/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/abdulrafayl226825/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/abdulrafayl226825/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/abdulrafayl226825/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2685-first-completely-painted-row-or-column](https://github.com/abdulrafayl226825/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/abdulrafayl226825/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/abdulrafayl226825/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2300-construct-string-with-repeat-limit](https://github.com/abdulrafayl226825/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 ## Union Find
