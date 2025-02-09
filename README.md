@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abdulrafayl226825/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/abdulrafayl226825/Leetcode/tree/master/0198-house-robber) |
 | [0630-course-schedule-iii](https://github.com/abdulrafayl226825/Leetcode/tree/master/0630-course-schedule-iii) |
 | [1364-tuple-with-same-product](https://github.com/abdulrafayl226825/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abdulrafayl226825/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/abdulrafayl226825/Leetcode/tree/master/0198-house-robber) |
 | [1236-n-th-tribonacci-number](https://github.com/abdulrafayl226825/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
@@ -157,4 +159,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0630-course-schedule-iii](https://github.com/abdulrafayl226825/Leetcode/tree/master/0630-course-schedule-iii) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abdulrafayl226825/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/abdulrafayl226825/Leetcode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/abdulrafayl226825/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/abdulrafayl226825/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
