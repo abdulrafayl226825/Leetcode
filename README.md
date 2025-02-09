@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/abdulrafayl226825/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/abdulrafayl226825/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/abdulrafayl226825/Leetcode/tree/master/2145-grid-game) |
+| [2448-count-number-of-bad-pairs](https://github.com/abdulrafayl226825/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/abdulrafayl226825/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/abdulrafayl226825/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/abdulrafayl226825/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/abdulrafayl226825/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/abdulrafayl226825/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/abdulrafayl226825/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2448-count-number-of-bad-pairs](https://github.com/abdulrafayl226825/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/abdulrafayl226825/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abdulrafayl226825/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Breadth-First Search
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/abdulrafayl226825/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [2448-count-number-of-bad-pairs](https://github.com/abdulrafayl226825/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/abdulrafayl226825/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/abdulrafayl226825/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2300-construct-string-with-repeat-limit](https://github.com/abdulrafayl226825/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2448-count-number-of-bad-pairs](https://github.com/abdulrafayl226825/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Union Find
 |  |
 | ------- |
