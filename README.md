@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/abdulrafayl226825/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/abdulrafayl226825/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/abdulrafayl226825/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/abdulrafayl226825/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/abdulrafayl226825/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/abdulrafayl226825/Leetcode/tree/master/2145-grid-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/abdulrafayl226825/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/abdulrafayl226825/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/abdulrafayl226825/Leetcode/tree/master/0198-house-robber) |
 | [1236-n-th-tribonacci-number](https://github.com/abdulrafayl226825/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/abdulrafayl226825/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Memoization
 |  |
 | ------- |
