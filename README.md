@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/abdulrafayl226825/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/abdulrafayl226825/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/abdulrafayl226825/Leetcode/tree/master/2145-grid-game) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/abdulrafayl226825/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/abdulrafayl226825/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/abdulrafayl226825/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/abdulrafayl226825/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/abdulrafayl226825/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/abdulrafayl226825/Leetcode/tree/master/2145-grid-game) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/abdulrafayl226825/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -177,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abdulrafayl226825/Leetcode/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/abdulrafayl226825/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Sliding Window
+|  |
+| ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/abdulrafayl226825/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
