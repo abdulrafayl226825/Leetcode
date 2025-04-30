@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/abdulrafayl226825/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abdulrafayl226825/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3429-special-array-i](https://github.com/abdulrafayl226825/Leetcode/tree/master/3429-special-array-i) |
+| [3738-make-array-non-decreasing](https://github.com/abdulrafayl226825/Leetcode/tree/master/3738-make-array-non-decreasing) |
 ## Matrix
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0630-course-schedule-iii](https://github.com/abdulrafayl226825/Leetcode/tree/master/0630-course-schedule-iii) |
 | [2300-construct-string-with-repeat-limit](https://github.com/abdulrafayl226825/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [3738-make-array-non-decreasing](https://github.com/abdulrafayl226825/Leetcode/tree/master/3738-make-array-non-decreasing) |
 ## Counting
 |  |
 | ------- |
@@ -178,10 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abdulrafayl226825/Leetcode/tree/master/0042-trapping-rain-water) |
+| [3738-make-array-non-decreasing](https://github.com/abdulrafayl226825/Leetcode/tree/master/3738-make-array-non-decreasing) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abdulrafayl226825/Leetcode/tree/master/0042-trapping-rain-water) |
+| [3738-make-array-non-decreasing](https://github.com/abdulrafayl226825/Leetcode/tree/master/3738-make-array-non-decreasing) |
 ## Binary Search
 |  |
 | ------- |
