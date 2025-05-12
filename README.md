@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abdulrafayl226825/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0047-permutations-ii](https://github.com/abdulrafayl226825/Leetcode/tree/master/0047-permutations-ii) |
 | [0198-house-robber](https://github.com/abdulrafayl226825/Leetcode/tree/master/0198-house-robber) |
 | [0630-course-schedule-iii](https://github.com/abdulrafayl226825/Leetcode/tree/master/0630-course-schedule-iii) |
 | [1364-tuple-with-same-product](https://github.com/abdulrafayl226825/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/abdulrafayl226825/Leetcode/tree/master/0047-permutations-ii) |
 | [0630-course-schedule-iii](https://github.com/abdulrafayl226825/Leetcode/tree/master/0630-course-schedule-iii) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abdulrafayl226825/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Two Pointers
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/abdulrafayl226825/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/abdulrafayl226825/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/abdulrafayl226825/Leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
