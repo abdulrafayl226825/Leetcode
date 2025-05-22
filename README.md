@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/abdulrafayl226825/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/abdulrafayl226825/Leetcode/tree/master/0047-permutations-ii) |
 | [0198-house-robber](https://github.com/abdulrafayl226825/Leetcode/tree/master/0198-house-robber) |
+| [0354-russian-doll-envelopes](https://github.com/abdulrafayl226825/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0630-course-schedule-iii](https://github.com/abdulrafayl226825/Leetcode/tree/master/0630-course-schedule-iii) |
 | [1364-tuple-with-same-product](https://github.com/abdulrafayl226825/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/abdulrafayl226825/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abdulrafayl226825/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/abdulrafayl226825/Leetcode/tree/master/0198-house-robber) |
+| [0354-russian-doll-envelopes](https://github.com/abdulrafayl226825/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [1236-n-th-tribonacci-number](https://github.com/abdulrafayl226825/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/abdulrafayl226825/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Memoization
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/abdulrafayl226825/Leetcode/tree/master/0047-permutations-ii) |
+| [0354-russian-doll-envelopes](https://github.com/abdulrafayl226825/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0630-course-schedule-iii](https://github.com/abdulrafayl226825/Leetcode/tree/master/0630-course-schedule-iii) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abdulrafayl226825/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Two Pointers
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0354-russian-doll-envelopes](https://github.com/abdulrafayl226825/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/abdulrafayl226825/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Sliding Window
 |  |
