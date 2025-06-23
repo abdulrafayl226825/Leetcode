@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/abdulrafayl226825/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abdulrafayl226825/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/abdulrafayl226825/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/abdulrafayl226825/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Dynamic Programming
 |  |
@@ -210,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/abdulrafayl226825/Leetcode/tree/master/0047-permutations-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/abdulrafayl226825/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 <!---LeetCode Topics End-->
