@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/abdulrafayl226825/Leetcode/tree/master/0231-power-of-two) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/abdulrafayl226825/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/abdulrafayl226825/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abdulrafayl226825/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/abdulrafayl226825/Leetcode/tree/master/0231-power-of-two) |
 | [0900-reordered-power-of-2](https://github.com/abdulrafayl226825/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1236-n-th-tribonacci-number](https://github.com/abdulrafayl226825/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abdulrafayl226825/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/abdulrafayl226825/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/abdulrafayl226825/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/abdulrafayl226825/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
