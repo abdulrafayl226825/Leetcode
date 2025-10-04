@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abdulrafayl226825/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/abdulrafayl226825/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/abdulrafayl226825/Leetcode/tree/master/0047-permutations-ii) |
 | [0198-house-robber](https://github.com/abdulrafayl226825/Leetcode/tree/master/0198-house-robber) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abdulrafayl226825/Leetcode/tree/master/0011-container-with-most-water) |
 | [0630-course-schedule-iii](https://github.com/abdulrafayl226825/Leetcode/tree/master/0630-course-schedule-iii) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/abdulrafayl226825/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/abdulrafayl226825/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abdulrafayl226825/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/abdulrafayl226825/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
